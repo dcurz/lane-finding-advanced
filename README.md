@@ -1,6 +1,6 @@
 # Finding Lane Lines on the Road 
 
-<img src="output_images/Found Lines.png" width="480" alt="Combined Image" /> <img src="output_images/Full Pipeline Example.png" width="480" alt="Combined Image" />
+<img src="output_images/Found Lines.png" width="300" alt="Combined Image" /> <img src="output_images/Full Pipeline Example.png" width="300" alt="Combined Image" />
 
 
 Skills
